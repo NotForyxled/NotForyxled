@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: notforyxled@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: -​
+- ⚡ Fun fact: Java sucks
 
 <!---
 NotForyxled/NotForyxled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
